@@ -31,7 +31,7 @@ Projeto desenvolvido para a disciplina de **Desenvolvimento Web III** da FATEC, 
 
 1. **Clonar o Repositório**
    ```bash
-   git clone [https://github.com/DMBMz/AutoBots.git](https://github.com/DMBMz/AutoBots.git)
+   git clone https://github.com/DMBMz/AutoBots-atvi.git
 
 
 ### Compilar e Executar a Aplicação
